@@ -1,4 +1,4 @@
-# yipl-intern-petroleum-report
+# Petroleum-report
 The database name and the table name must be unique.
 Variables used described uisng comments in the program itself
 
